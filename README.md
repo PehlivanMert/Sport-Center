@@ -1,5 +1,7 @@
 # 🏋️ Sport Center Website
-This project includes the design of an interactive and user-friendly website for a sports center. It is created using HTML, CSS and JavaScript. The purpose of the project is to introduce various services to sports center clients and facilitate effective communication.
+* You can access the site here: https://pehlivanmert.github.io/Sport-Center/
+  
+* This project includes the design of an interactive and user-friendly website for a sports center. It is created using HTML, CSS and JavaScript. The purpose of the project is to introduce various services to sports center clients and facilitate effective communication.
 
 ## 📋 Features
 * Active Buttons:
@@ -37,7 +39,7 @@ The design is optimized for viewing on mobile devices with a screen width of 576
 * Clone the repository.
 * Navigate to the project directory.
 * You can run the project on ' localhost:5173 ' by typing ' npm run dev ' in the terminal.
-* You can access the site here: https://pehlivanmert.github.io/Sport-Center/ 
+
 
 ## 📸 Screen videos
 
