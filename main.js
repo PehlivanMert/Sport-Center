@@ -30,9 +30,9 @@ function yoga() {
     pariatur ad harum non, molestias maiores molestiae sapiente perferendis veniam earum fugit ipsum
     repellendus architecto ducimus explicabo reiciendis alias quasi culpa libero amet similique nisi!`;
     document.querySelectorAll("#features-container h6")[1].innerHTML = "When comes Yoga Your Time?";
-    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:000am`;
+    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:00am`;
     document.querySelector("#features-container img").src = "img/yoga.jpg";
 }
 
@@ -41,9 +41,9 @@ function group() {
     document.querySelectorAll("#features-container p")[0].innerHTML = `Lorem ipsum dolor sit amet consectetur adipisicing elit. In, nihil recusandae. Atque, illum corporisodio
     pariatur ad harum non, molestias maiores molestiae sapiente perferendis veniam earum fugit ipsum`;
     document.querySelectorAll("#features-container h6")[1].innerHTML = "When comes Group Your Time?";
-    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:000am`;
+    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:00am`;
     document.querySelector("#features-container img").src = "img/group.webp";
 }
 
@@ -53,9 +53,9 @@ function solo() {
     pariatur ad harum non, molestias maiores molestiae sapiente perferendis veniam earum fugit ipsum
     repellendus architecto ducimus explicabo reiciendis alias quasi culpa libero amet similique nisi!`;
     document.querySelectorAll("#features-container h6")[1].innerHTML = "When comes Solo Your Time?";
-    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:000am`;
+    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:00am`;
     document.querySelector("#features-container img").src = "img/solo.jpg";
 }
 
@@ -65,9 +65,9 @@ function stretch() {
     pariatur ad harum non, molestias maiores molestiae sapiente perferendis veniam earum fugit ipsum
     repellendus architecto ducimus explicabo reiciendis alias quasi culpa libero amet similique nisi!`;
     document.querySelectorAll("#features-container h6")[1].innerHTML = "When comes Stretch Your Time?";
-    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:000am`;
-    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:000am`;
+    document.querySelectorAll("#features-container p")[1].innerHTML = `Saturday-Sunday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[2].innerHTML = `Monday-Tuesday: 8:00am - 10:00am`;
+    document.querySelectorAll("#features-container p")[3].innerHTML = `Wednesday-Friday: 8:00am - 10:00am`;
     document.querySelector("#features-container img").src = "img/stret.webp";
 }
 
