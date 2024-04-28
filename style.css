@@ -594,6 +594,34 @@ footer {
   display: flex;
   flex-direction: column;
 }
+#height {
+  border: 1px solid rgba(0, 0, 0, 0.2); 
+  transition: border-color 0.5s ease; 
+  margin-right: 0.43rem;
+}
+
+#height:hover, #weight:hover {
+  border-color: rgb(7, 91, 102); 
+}
+
+#weight {
+  border: 1px solid rgba(0, 0, 0, 0.2); 
+  transition: border-color 0.5s ease; 
+  margin-right: 0.43rem;
+}
+
+#textname, #ymail {
+  border: 1px solid rgba(0, 0, 0, 0.2); 
+  transition: border-color 0.5s ease; 
+  margin-right: 0.43rem;
+}
+
+#textname:hover, #ymail:hover {
+  border-color: rgb(0, 0, 0); 
+}
+
+
+
 /* Responsive */
 @media screen and (max-width: 576px) {
   .menu-btn {
