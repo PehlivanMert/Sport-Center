@@ -41,7 +41,7 @@ The design is optimized for viewing on mobile devices with a screen width of 576
 
 ## 📸 Screen videos
 
-* [Site](ss/ss 1.mp4)
+* [Site](ss/ss1.mp4)
 * [Responsive](ss/responsive.mp4)
 
 
